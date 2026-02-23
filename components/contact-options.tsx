@@ -10,7 +10,7 @@ import {
 } from "@/components/ui/tooltip";
 
 const RESUME_URL =
-  "https://drive.google.com/file/d/1XHiOkju4w7qkGKgeR7YOlAo_K7Mta5hR/view?usp=sharing";
+  "https://drive.google.com/file/d/18XK9kKpk0BG28LjD0TnZz9APbkDonEHk/view?usp=share_link";
 
 type ContactOptionsProps = {
   className?: string;
